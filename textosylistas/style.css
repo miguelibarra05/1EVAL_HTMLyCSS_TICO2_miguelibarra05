@@ -7,3 +7,13 @@ span.negrita{
 span.suu{
     font-size: larger;
 }
+ul{
+    list-style-type: square;
+}
+ol{
+    list-style-image: url("img/balondeoro.jpeg");
+
+}
+ul{
+    list-style-image: url("img/arrozcubana.jpg");
+}
