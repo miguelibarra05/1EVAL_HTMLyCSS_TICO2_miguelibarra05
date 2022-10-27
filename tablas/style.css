@@ -1,0 +1,6 @@
+table{
+    border: #7bdefc 7px ridge;
+}
+td, th {
+    border: rgb(29, 158, 190) 3px ridge;
+  }
