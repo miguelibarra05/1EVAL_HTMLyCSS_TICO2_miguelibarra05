@@ -17,3 +17,6 @@ ol{
 ul{
     list-style-image: url("img/arrozcubana.jpg");
 }
+body{
+    background-color: rgb(255, 240, 254);
+}
